@@ -1,0 +1,7 @@
+D:\SanfyIn\git-repos\csharp-coding\CSharpCoding\bin\Debug\CSharpCoding.exe.config
+D:\SanfyIn\git-repos\csharp-coding\CSharpCoding\bin\Debug\CSharpCoding.exe
+D:\SanfyIn\git-repos\csharp-coding\CSharpCoding\bin\Debug\CSharpCoding.pdb
+D:\SanfyIn\git-repos\csharp-coding\CSharpCoding\obj\Debug\CSharpCoding.csprojAssemblyReference.cache
+D:\SanfyIn\git-repos\csharp-coding\CSharpCoding\obj\Debug\CSharpCoding.csproj.CoreCompileInputs.cache
+D:\SanfyIn\git-repos\csharp-coding\CSharpCoding\obj\Debug\CSharpCoding.exe
+D:\SanfyIn\git-repos\csharp-coding\CSharpCoding\obj\Debug\CSharpCoding.pdb
